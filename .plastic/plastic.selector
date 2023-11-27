@@ -1,0 +1,4 @@
+repository "OpenWorld-Survival-Game@Nikolajjk13a@cloud"
+  path "/"
+    br "/main"
+    co "/main"
