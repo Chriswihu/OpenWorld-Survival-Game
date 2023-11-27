@@ -43,6 +43,8 @@ public class NewBehaviourScript : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space))
         {
             health -= 10;
+            hunger -= 10;
+            thirst -= 10;
         }
     }
 }
